@@ -1,0 +1,9 @@
+# Archivos basura de macOS
+.DS_Store
+
+# Archivos temporales de VS Code
+.vscode/
+
+# Archivos de sistema
+*.log
+*.tmp
